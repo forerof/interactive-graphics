@@ -1,4 +1,4 @@
-### 🧠 Gráfica Interactiva
+## 🧠 Gráfica Interactiva
 
 **Universidad Nacional de Colombia - Sede Bogotá**  
 **Facultad de Ingeniería - Departamento de Sistemas e Industrial**  
@@ -9,7 +9,7 @@
 
 ---
 
-### 🧭 Descripción del curso
+## 🧭 Descripción del curso
 
 El curso propone una introducción práctica a los lenguajes de programación que permiten desarrollar imágenes e interfaces interactivas en entornos digitales, enfocado en:
 
@@ -23,11 +23,11 @@ Está dirigido a estudiantes de distintas disciplinas, sin necesidad de experien
 
 ---
 
-### 🕷️ Hollow Knight
+## 🕷️ Hollow Knight
 
 Este repositorio contiene una página web estática desarrollada como ejercicio para el curso **Gráfica Interactiva** de la Universidad Nacional de Colombia (2024-2). El proyecto explora las **locaciones** y **actividades** del videojuego *Hollow Knight*, utilizando tecnologías web como **HTML**, **CSS** y **JavaScript**.
 
-### 🎯 Objetivo del proyecto
+## 🎯 Objetivo del proyecto
 
 Diseñar una interfaz interactiva y visualmente atractiva que permita al usuario:
 
@@ -35,7 +35,7 @@ Diseñar una interfaz interactiva y visualmente atractiva que permita al usuario
 - Conocer las actividades disponibles en cada zona.
 - Navegar de forma intuitiva mediante menús y mapas interactivos.
 
-### 🧰 Tecnologías utilizadas
+## 🧰 Tecnologías utilizadas
 
 - `HTML5`: estructura de la página.
 - `CSS3`: diseño visual adaptativo (RWD).
@@ -44,7 +44,7 @@ Diseñar una interfaz interactiva y visualmente atractiva que permita al usuario
 
 ---
 
-### ▶️ Cómo visualizar el proyecto
+## ▶️ Cómo visualizar el proyecto
 
 Puedes explorar esta página web de forma local en tu computador siguiendo estos pasos:
 
